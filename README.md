@@ -1,4 +1,1 @@
-# trash
-just trying to use github using vs code
-yohohoho
-mamamama
+Making the simple document summariser.
