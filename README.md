@@ -1,1 +1,1 @@
-Making the simple document summariser.
+A simple document summariser.
